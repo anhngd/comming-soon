@@ -1,11 +1,11 @@
 const currentYear = new Date().getFullYear();
 const data = {
-    sitename: "tripvivu",
+    sitename: "TripVivu",
     sitetagline: "✨Your journey, simplified 🔥",
     siteurl: "https://tripvivu.com",
     sitelogo: "",
-    title: "tripvivu - Your journey, simplified",
-    description: "🚀 Coming Soon! We're crafting an intelligent and personalized travel assistant just for YOU.",
+    title: "TripVivu - Your journey, simplified",
+    description: "🚀 Coming Soon! We're crafting an intelligent and personalized travel assistant just for YOU. 🚀 ",
     newsletterheading: "Stay tuned for our live updates!",
     copyrightText: `Copyright © ${currentYear} TRIPVIVU.COM</a>`,
     socialIconsHeading: "Follow Us 📣",
