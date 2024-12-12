@@ -1,15 +1,15 @@
 const currentYear = new Date().getFullYear();
 const data = {
-    sitename: "TripVivu - Your journey, simplified",
-    sitetagline: "✨ TripVivu - Your journey, simplified 🔥",
+    sitename: "tripvivu",
+    sitetagline: "✨Your journey, simplified 🔥",
     siteurl: "https://tripvivu.com",
     sitelogo: "",
-    title: "TripVivu - Your journey, simplified",
+    title: "tripvivu - Your journey, simplified",
     description: "🚀 Coming Soon! We're crafting an intelligent and personalized travel assistant just for YOU.",
     newsletterheading: "Stay tuned for our live updates!",
     copyrightText: `Copyright © ${currentYear} TRIPVIVU.COM</a>`,
     socialIconsHeading: "Follow Us 📣",
-    hideSubscribeForm: false, // make true to disable subscription form 
+    hideSubscribeForm: true, // make true to disable subscription form 
     socialIcons: [
         {
             icon: "facebook",
