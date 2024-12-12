@@ -21,7 +21,7 @@ const data = {
         },
         {
             icon: "linkedIn",
-            link: "https://www.linkedin.com/,
+            link: "https://www.linkedin.com/",
         },
     ],
     hide :{
