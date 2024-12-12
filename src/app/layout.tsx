@@ -10,8 +10,8 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: "Home - Comming soon Template",
-  description: 'This is a simple coming soon template built with NextJS and TailwindCSS. It is a lightweight and responsive template that can be used for various projects that require a "coming soon" page.',
+  title: "TripVivu - Your journey, simplified",
+  description: 'Discover a smarter way to plan your travels with TripVivu. Our AI-powered platform helps you create personalized itineraries, discover hidden gems, and simplify every step of your journey. Whether you’re planning a weekend getaway or a long-term adventure, TripVivu provides tailored recommendations, real-time updates, and seamless booking options – all in one place',
 }
 
 export default function RootLayout({
